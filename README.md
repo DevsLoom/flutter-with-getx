@@ -34,7 +34,7 @@ SUPPORT_EMAIL=support@ohaz.com
 
 #### 🪟 Windows
 
-##### 🧭 File Explorer
+##### 🧽 File Explorer
 
 1. Go to the project root directory.
 2. Right-click → **New** → **Text Document**.
@@ -65,7 +65,7 @@ echo "APP_NAME=Ohaz" >> .env
 echo "SUPPORT_EMAIL=support@ohaz.com" >> .env
 ```
 
-##### 🧭 Finder
+##### 🧽 Finder
 
 1. Run `open .` in Terminal to open the folder.
 2. Press `Cmd + Shift + .` to view hidden files.
@@ -162,7 +162,7 @@ dart run build_runner watch
 
 ---
 
-### 🧼 Clean and Rebuild (Optional)
+### 🩼 Clean and Rebuild (Optional)
 
 ```bash
 dart run build_runner clean
@@ -195,4 +195,5 @@ Image.asset(Assets.images.logo.path);
 
 ---
 
-Now you're all set with `.env` configuration and asset management using FlutterGen. Happy coding! 🎯
+Now you're all set with `.env` configuration and asset management using FlutterGen. Happy coding! 🌟
+
