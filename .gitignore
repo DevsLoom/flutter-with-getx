@@ -117,3 +117,17 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+
+# macOS system files
+.DS_Store
+
+# IDEs
+.idea/
+
+# Local environment file
+.env
+
+# Only for packages/plugins, not apps
+pubspec.lock
+
